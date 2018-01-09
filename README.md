@@ -32,16 +32,16 @@ The movie-this command requires a movie name to be entered as a parameter (use q
 The spotify-this-song command requires a song name to be entered as a parameter (use quotes if more than one word).
 
 #### do-what-it-says
-The do-what-it-says command reads the command from random.txt. If you choose to alter the text in thr random.txt file, it must follow the same format (no spaces between the command and second parameter).
+The do-what-it-says command reads the command from **random.txt**. If you choose to alter the text in thr random.txt file, it must follow the same format (no spaces between the command and second parameter).
 - e.g. movie-this,"The Breakfast Club"
 
 ## Built With
 
-- [Twitter npm] (https://www.npmjs.com/package/twitter)
-- [Node Spotify API npm] (https://www.npmjs.com/package/node-spotify-api)
-- [Request npm] (https://www.npmjs.com/package/request)
-- [OMDB API] (http://www.omdbapi.com/)
-- [dotenv npm] (https://www.npmjs.com/package/dotenv)
+- [Twitter npm](https://www.npmjs.com/package/twitter)
+- [Node Spotify API npm](https://www.npmjs.com/package/node-spotify-api)
+- [Request npm](https://www.npmjs.com/package/request)
+- [OMDB API](http://www.omdbapi.com/)
+- [dotenv npm](https://www.npmjs.com/package/dotenv)
 
 
 ### Author
